@@ -1,7 +1,5 @@
-## 🚀 Tech Stack & Features
+## Next.js App Router Course - Starter
 
-- **Framework:** Next.js (App Router, File-system Routing, Server Actions)
-- **Database:** Vercel Postgres (SQL queries & mutations)
-- **Auth:** NextAuth.js with Middleware route protection
-- **Styling & UI:** Tailwind CSS, Font & Image Optimization, Streaming (Suspense)
-- **Features:** Invoice CRUD, URL Search Params (Search & Pagination), Server-side Validation & Accessibility (a11y)
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
