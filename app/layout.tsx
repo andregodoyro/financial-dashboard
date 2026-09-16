@@ -1,4 +1,3 @@
-// @ts-expect-error The CSS file is handled by the framework's build pipeline.
 import './ui/global.css';
 import { inter } from './ui/font';
  
